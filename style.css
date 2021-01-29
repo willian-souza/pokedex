@@ -13,7 +13,7 @@ html, body {
     --card-bg: #3d3d3d;
     --fire: #e4604d;
     --grass: #9dd465;
-    --eletric: #f9e45f;
+    --electric: #f9e45f;
     --water: #6a83d6;
     --ground: #e4c967;
     --rock: #cabb7b;
@@ -21,7 +21,7 @@ html, body {
     --poison: #9f619d;
     --bug: #c5cf4a;
     --dragon: #857af7;
-    --psyhic: #e56eaf;
+    --psychic: #e56eaf;
     --flying: #80a4f9;
     --fighting: #9b5a48;
     --normal: #bab8ab;
@@ -43,11 +43,11 @@ html, body {
 }
 
 
-.bg-eletric{
-    background: linear-gradient( to top right, var(--eletric), var(--card-bg) 25%);
+.bg-electric{
+    background: linear-gradient( to top right, var(--electric), var(--card-bg) 25%);
 }
-.eletric{
-    background-color: var(--eletric);
+.electric{
+    background-color: var(--electric);
 }
 
 
@@ -107,11 +107,11 @@ html, body {
 }
 
 
-.bg-psyhic{
-    background: linear-gradient( to top right, var(--psyhic), var(--card-bg) 25%);
+.bg-psychic{
+    background: linear-gradient( to top right, var(--psychic), var(--card-bg) 25%);
 }
-.psyhic{
-    background-color: var(--psyhic);
+.psychic{
+    background-color: var(--psychic);
 }
 
 
